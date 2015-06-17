@@ -9,3 +9,16 @@
 strong {
   color: yellow;
 }
+
+.purple {
+  color: #603BBF;
+}
+
+p {
+  font-family: arial;
+  color: green;
+}
+
+ul {
+  list-style-type: circle;
+}
